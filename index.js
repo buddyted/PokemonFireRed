@@ -10,6 +10,12 @@ c.fillRect(0, 0, canvas.width, canvas.height)
 
 const image = new Image()
 image.src = './img/map.png'
-console.log(image)
 
-c.drawImage(image, 0, 0)
+const playerImage = new Image()
+playerImage.src = './img/Player-Down.png'
+
+
+image.onload = () => {
+    c.drawImage(image, 0, -150)
+    c.drawImage(playerImage, canvas.width/2 - playerImage.width , canvas.height/2 + playerImage.height *4)
+}
