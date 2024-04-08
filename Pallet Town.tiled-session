@@ -1,0 +1,51 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Pokemon.tmx",
+    "expandedProjectPaths": [
+        "Assets",
+        "."
+    ],
+    "fileStates": {
+        "Assets/Collision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Pallet Town.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Assets/Pokemon.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 158.75,
+                "y": 160.25
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/rohan/OneDrive/Desktop/Portfolio",
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 16,
+    "openFiles": [
+        "Assets/Pallet Town.tsx",
+        "Assets/Pokemon.tmx",
+        "Assets/Collision.tsx"
+    ],
+    "project": "Pallet Town.tiled-project",
+    "recentFiles": [
+        "Assets/Pallet Town.tsx",
+        "Assets/Collision.tsx",
+        "Assets/Pokemon.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
